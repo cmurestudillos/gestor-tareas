@@ -1,0 +1,8 @@
+{
+  "appId": "tareas.ionic",
+  "appName": "tareas",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
