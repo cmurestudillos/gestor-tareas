@@ -1,4 +1,4 @@
-# gestor-tareas
+# gestor-tareas-Ionic
 Gestor de Tareas realizado con Ionic, utilizando LocalStorage como almacenamiento.
 
 ### Instalar dependencias
